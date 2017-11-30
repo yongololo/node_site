@@ -1,14 +1,14 @@
-# Build a Website with Node.js
+# Construire un site web avec Node.js
 
-Full project for the Build a Website with Node course. 
+Projet complet pour le cours Construire un site Web avec NodeJS
 
 ## Instructions
 
-1. Clone the repo: `git@github.com:scotch-io/node-website-course.git`
-2. Install packages: `npm install`
-3. Start the server: `node server.js`
-4. Visit in browser at: `http://localhost:8080`
+1. Clone le repo: `git@github.com:scotch-io/node-website-course.git`
+2. Installer le  packages: `npm install`
+3. Demmarer le serveur: `node server.js`
+4. Rendez vous sur votre navigateur : `http://localhost:8080`
 
 ## Course Videos
 
-[Watch the first three lessons free](https://school.scotch.io/build-a-nodejs-website)
+[regarder les trois premières leçons free](https://school.scotch.io/build-a-nodejs-website)
